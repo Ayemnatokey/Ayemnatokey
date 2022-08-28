@@ -14,7 +14,7 @@
 ## You Can Contact Me
 
 <div align="center">
-<img src="https://img.shields.io/badge/ceon@ceon.tech%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/ceondev@gmail.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=%23F7DF1E"/> 
 
 </div>
 
